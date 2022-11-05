@@ -89,7 +89,7 @@
 "mixdrop_domain":"mixdrop.co",
 "site_cookie":"https://series9.me,https://www.putlockers.ro",
 "site_cookie_test":"https://series9.me,https://www.putlockers.ro",
-"iron_enable":"0",
+"iron_enable":"1",
 "olgply_enable":true,
 "look_cookie":"",
 "look_domain_api":"https://lookmovie2.to",
